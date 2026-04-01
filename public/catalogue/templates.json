@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "updated": "2026-04-01",
+  "templates": [
+    {
+      "id": "img-2x2-2x2-2x2-rot",
+      "config": {
+        "media": { "image": "https://puzzle-thing-assets.pages.dev/1.png" },
+        "grid": [
+          { "xrange": 2, "yrange": 2 },
+          { "xrange": 2, "yrange": 2 },
+          { "xrange": 2, "yrange": 2 }
+        ],
+        "features": { "rotations": true, "groupHints": true }
+      }
+    },
+    {
+      "id": "wheat-5x4-4x4-rot",
+      "config": {
+        "media": { "image": "https://puzzle-thing-assets.pages.dev/wheat-field-with-cypresses.jpg" },
+        "grid": [
+          { "xrange": 5, "yrange": 4 },
+          { "xrange": 4, "yrange": 4 }
+        ],
+        "features": { "rotations": true, "groupHints": true }
+      }
+    },
+    {
+      "id": "wheat-5x4-4x4",
+      "config": {
+        "media": { "image": "https://puzzle-thing-assets.pages.dev/wheat-field-with-cypresses.jpg" },
+        "grid": [
+          { "xrange": 5, "yrange": 4 },
+          { "xrange": 4, "yrange": 4 }
+        ],
+        "features": { "rotations": false, "groupHints": true }
+      }
+    },
+    {
+      "id": "wheat-5x4-4x4-2x2",
+      "config": {
+        "media": { "image": "https://puzzle-thing-assets.pages.dev/wheat-field-with-cypresses.jpg" },
+        "grid": [
+          { "xrange": 5, "yrange": 4 },
+          { "xrange": 4, "yrange": 4 },
+          { "xrange": 2, "yrange": 2 }
+        ],
+        "features": { "rotations": false, "groupHints": true }
+      }
+    },
+    {
+      "id": "wheat-5x4-4x4-2x2-rot",
+      "config": {
+        "media": { "image": "https://puzzle-thing-assets.pages.dev/wheat-field-with-cypresses.jpg" },
+        "grid": [
+          { "xrange": 5, "yrange": 4 },
+          { "xrange": 4, "yrange": 4 },
+          { "xrange": 2, "yrange": 2 }
+        ],
+        "features": { "rotations": true, "groupHints": true }
+      }
+    },
+    {
+      "id": "wheat-8x8-rot",
+      "config": {
+        "media": { "image": "https://puzzle-thing-assets.pages.dev/wheat-field-with-cypresses.jpg" },
+        "grid": [
+          { "xrange": 8, "yrange": 8 }
+        ],
+        "features": { "rotations": true, "groupHints": true }
+      }
+    },
+    {
+      "id": "img-5x5-rot",
+      "config": {
+        "media": { "image": "https://puzzle-thing-assets.pages.dev/1.png" },
+        "grid": [
+          { "xrange": 5, "yrange": 5 }
+        ],
+        "features": { "rotations": true, "groupHints": true }
+      }
+    },
+    {
+      "id": "img-5x5-5x5-rot",
+      "config": {
+        "media": { "image": "https://puzzle-thing-assets.pages.dev/1.png" },
+        "grid": [
+          { "xrange": 5, "yrange": 5 },
+          { "xrange": 5, "yrange": 5 }
+        ],
+        "features": { "rotations": true, "groupHints": true }
+      }
+    },
+    {
+      "id": "img-3x5-rot",
+      "config": {
+        "media": { "image": "https://puzzle-thing-assets.pages.dev/1.png" },
+        "grid": [
+          { "xrange": 3, "yrange": 5 }
+        ],
+        "features": { "rotations": true, "groupHints": true }
+      }
+    },
+    {
+      "id": "img-10x10-rot",
+      "config": {
+        "media": { "image": "https://puzzle-thing-assets.pages.dev/1.png" },
+        "grid": [
+          { "xrange": 10, "yrange": 10 }
+        ],
+        "features": { "rotations": true, "groupHints": true }
+      }
+    },
+    {
+      "id": "snow-7x7",
+      "config": {
+        "media": { "video": "https://puzzle-thing-assets.pages.dev/snowy.mp4" },
+        "grid": [
+          { "xrange": 7, "yrange": 7 }
+        ],
+        "features": { "rotations": false, "groupHints": false }
+      }
+    },
+    {
+      "id": "snow-5x5-rot",
+      "config": {
+        "media": { "video": "https://puzzle-thing-assets.pages.dev/snowy.mp4" },
+        "grid": [
+          { "xrange": 5, "yrange": 5 }
+        ],
+        "features": { "rotations": true, "groupHints": true }
+      }
+    },
+    {
+      "id": "snow-3x3-3x3-rot",
+      "config": {
+        "media": { "video": "https://puzzle-thing-assets.pages.dev/snowy.mp4" },
+        "grid": [
+          { "xrange": 3, "yrange": 3 },
+          { "xrange": 3, "yrange": 3 }
+        ],
+        "features": { "rotations": true, "groupHints": true }
+      }
+    }
+  ]
+}
